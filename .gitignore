@@ -1,5 +1,5 @@
 .DS_Store
-node_modules
+Student Sign In 2/student-sign-in/node_modules
 /dist
 
 # local env files

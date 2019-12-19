@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Would You Rather/vue-would-you-rather" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vue-would-you-rather" vcs="Git" />
   </component>
 </project>
